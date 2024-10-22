@@ -1,1 +1,2 @@
-export * from "./passport-config";
+export {default as passport } from "./passport-config";
+export * from "../config/db";
